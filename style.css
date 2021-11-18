@@ -1,0 +1,56 @@
+.brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+  margin-right: 1em;
+  width: 50px;
+}
+
+.logo {
+  padding-right: 0;
+  color: brown;
+}
+
+.li {
+  color: rgb(145, 74, 19);
+}
+
+.my-list {
+  margin-top: 1em;
+  margin-left: 0.3em;
+  color: rgb(145, 90, 19);
+  font-style: italic;
+}
+
+.form {
+  margin: 30px;
+}
+
+.nav {
+  color: rgb(107, 30, 179);
+}
+
+.p {
+  background-color: rgba(181, 77, 39, 0.743);
+  padding-left: 1em;
+}
+
+.form {
+  color: rgba(1, 1, 165, 0.941);
+}
+
+.h3 {
+  color: rgb(39, 39, 203);
+}
+
+.text {
+  color: rgba(137, 33, 33, 0.941);
+}
+
+.images {
+  align-content: center;
+  border-radius: 50px;
+}
